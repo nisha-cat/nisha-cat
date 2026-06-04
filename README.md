@@ -56,12 +56,15 @@ Highly analytical Computer Applications graduate (**CGPA: 9.02**) with practical
 
 ---
 
+---
+
 ### 📈 GitHub Metrics
 
-<p align="left">
-<img src="https://vercel.app" alt="Nisha's GitHub Stats" width="48%" />
-<img src="https://vercel.app" alt="Top Languages" width="48%" />
-</p>
+- 💻 **Active Repositories:** Enforcing structured MVC workflows and database constraints.
+- ⚡ **Tech Focus:** Optimizing SQL queries, managing state in React, and building RESTful APIs.
+- 🕒 **Code Style:** Clean commits, semantic branching, and comprehensive README documentation.
+
+---
 
 ---
 
