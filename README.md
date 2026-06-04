@@ -15,7 +15,6 @@ Highly analytical Computer Applications graduate (**CGPA: 9.02**) with practical
 - 🌐 Fully prepared for immediate relocation and onboarding in the UAE.
 
 ---
-
 ### 🛠️ Tech Stack & Tools
 
 #### 📊 Data & Analytics
@@ -38,6 +37,9 @@ Highly analytical Computer Applications graduate (**CGPA: 9.02**) with practical
 ![VS Code](https://shields.io)
 ![Vercel](https://shields.io)
 
+
+
+
 ---
 
 ### 📁 Featured Projects
@@ -53,6 +55,7 @@ Highly analytical Computer Applications graduate (**CGPA: 9.02**) with practical
 📌 **Instagram Clone & Analytics Dashboard** *(Data & Web)*
 - Developed an activity-tracking web app backed by an SQL database.
 - Created interactive Power BI dashboards to evaluate user engagement patterns and activity metrics.
+- 
 
 ---
 
@@ -72,7 +75,7 @@ Highly analytical Computer Applications graduate (**CGPA: 9.02**) with practical
 📧 **Email:** Nisha210605@gmail.com  
 💼 **LinkedIn:** [://linkedin.com](https://://linkedin.com)  
 
-*Available for technical interviews and relocation immediately.*
+*Available for technical interviews and relocation immediately to UAE.*
 
 <!--
 **nisha-cat/nisha-cat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
