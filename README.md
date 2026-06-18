@@ -1,7 +1,7 @@
 
 # Hi there, I'm Nisha S. 👋 
 
-### 🚀 BCA Graduate | Data Analyst & Full-Stack Developer
+### 🚀 BCA Graduate | Data Analyst & Full-Stack Developer specialized in React.js, node.js, SQL environments.
 📍 **Location:** India *(Ready to relocate to the UAE immediately)*  
 💼 **Looking for:** Entry-level Data Analyst / Software Developer roles in Dubai & Abu Dhabi
 
