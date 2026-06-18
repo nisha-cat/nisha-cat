@@ -48,11 +48,11 @@ Highly analytical Computer Applications graduate (**CGPA: 9.02**) with practical
 - Built using React, Node.js, Express, and MySQL with secure JWT authentication.
 - Features custom business logic for late marks, tracking working hours, and automated CSV report exports.
 
-📌 **Consent-Based Location Tracking System** *(IoT & Android)*
+📌 ** IOT-Enabled Consent-Based Location Tracking System** *(IoT & Android)*
 - Developed an indoor floor detection system integrating ESP32, barometric sensors, and MQTT.
 - Backed by an SQL database for secure location logging and monitoring.
 
-📌 **Instagram Clone & Analytics Dashboard** *(Data & Web)*
+📌 **Social Media Analysis Platform** *(Data & Web)*
 - Developed an activity-tracking web app backed by an SQL database.
 - Created interactive Power BI dashboards to evaluate user engagement patterns and activity metrics.
 - 
