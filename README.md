@@ -141,17 +141,6 @@ These are areas I'm actively learning. I don't claim expertise in them yet.
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nisha-cat&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub stats for nisha-cat" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisha-cat&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top programming languages" width="48%" />
-
-<img src="https://streak-stats.demolab.com?user=nisha-cat&theme=github-dark&hide_border=true&background=0d1117" alt="GitHub contribution streak" width="96%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nisha-cat&theme=github-compact&bg_color=0d1117&hide_border=true" alt="Contribution activity graph" width="96%" />
-
 </div>
 
 ---
